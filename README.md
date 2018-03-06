@@ -1,5 +1,4 @@
 # Prepare
----
 
 I would recommend giving [this](https://github.com/cassidoo/getting-a-gig) guide a read. The rest of this is stuff I found helpful in getting started.
 
@@ -8,7 +7,6 @@ I would recommend giving [this](https://github.com/cassidoo/getting-a-gig) guide
 My anecdote: I did essentially nothing my Sophomore summer, and physics research (which I didn't put on my resume) the summer before. After following a lot of this advice and applying to a lot of places, I ended up with an internship at a good company. So do not fret, all will be ok. 
 
 # Find companies
----
 
 ### Company finders
 
@@ -41,7 +39,6 @@ Apply to as many places as possible, as quickly as possible. If a company requir
 Put careful effort into companies you *really* want to work for. These are the companies you cold-email or reach out to alumni for. LinkedIn, Angel List, Wisr, and Cold-emailing are good for this.
 
 # Get noticed
----
 
 Speaking with an Actual Human in the interview process is IDEAL, especially if they can pass on your resume.  
 
