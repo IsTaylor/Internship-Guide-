@@ -1,16 +1,16 @@
-#Prepare
+# Prepare
 ---
 
 I would recommend giving [this](https://github.com/cassidoo/getting-a-gig) guide a read. The rest of this is stuff I found helpful in getting started.
 
-**If you are a sophomore or freshman, scroll to the bottom of the above guide. There are opportunities especially for you :)**
+** If you are a sophomore or freshman, scroll to the bottom of the above guide. There are opportunities especially for you :)**
 
 My anecdote: I did essentially nothing my Sophomore summer, and physics research (which I didn't put on my resume) the summer before. After following a lot of this advice and applying to a lot of places, I ended up with an internship at a good company. So do not fret, all will be ok. 
 
-#Find companies
+# Find companies
 ---
 
-###Company finders
+### Company finders
 
 - [Handshake](https://oberlin.joinhandshake.com/login)
 - [Intern Supply](http://www.intern.supply/) 
@@ -31,16 +31,16 @@ You can also brainstorm companies you use in your everyday life, have heard a lo
 **LinkedIn** had the best response rate  
 **Cold-emailling** had lower hit-rates, but the companies who responded were really impressed. It opened some cool doors to work with them in the future. 
 
-###Vary the Way you apply
+### Vary the Way you apply
 Interviewing is a numbers game. the more places you apply to, the more likely you are to get an internship. ***However***, for each internship, you're in tough stuff cause you have to be the best out of all the candidates!!! That's why it's important to ***vary the way you apply***. 
 
-####Strategy 1
+#### Strategy 1
 Apply to as many places as possible, as quickly as possible. If a company requires any short answer questions you can't do in 5 min, skip them. Intern supply, easy applications, and massive company list are good for this.
 
-####Strategy 2
+#### Strategy 2
 Put careful effort into companies you *really* want to work for. These are the companies you cold-email or reach out to alumni for. LinkedIn, Angel List, Wisr, and Cold-emailing are good for this.
 
-#Get noticed
+# Get noticed
 ---
 
 Speaking with an Actual Human in the interview process is IDEAL, especially if they can pass on your resume.  
@@ -68,7 +68,7 @@ Example questions:
 
 The last two are by far the most important - always ask these!
 	
-#On to the interviews!
+# On to the interviews!
 
 There are plenty of guides/ resources for these out there (including many in the guide linked at the top). Personally, I found **Cracking the Coding interview** good for theory, and **leetcode** good for practice.  
 The single most helpful thing form CTCI is to fill in this table with 3-4 projects you've done, BEFORE the interviews, and memorize it well.
