@@ -2,7 +2,7 @@
 
 I would recommend giving [this](https://github.com/cassidoo/getting-a-gig) guide a read. The rest of this is stuff I found helpful in getting started.
 
-** If you are a sophomore or freshman, scroll to the bottom of the above guide. There are opportunities especially for you :)**
+**If you are a sophomore or freshman, scroll to the bottom of the above guide. There are opportunities especially for you :)**
 
 My anecdote: I did essentially nothing my Sophomore summer, and physics research (which I didn't put on my resume) the summer before. After following a lot of this advice and applying to a lot of places, I ended up with an internship at a good company. So do not fret, all will be ok. 
 
@@ -46,7 +46,7 @@ Speaking with an Actual Human in the interview process is IDEAL, especially if t
 - LinkedIn*		
 - Talk to professors
 
-*Note: for LinkedIn you need to join Oberlin College and Conservatory _group_ + follow Oberlin college*
+**Note: for LinkedIn you need to join Oberlin College and Conservatory _group_ + follow Oberlin college*
 
 What I found to be helpful was asking alumni to talk about their post-oberlin experience, then at the very end (and only if you felt comfortable) asking them if there was anything they could do for you. 
 
