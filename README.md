@@ -113,3 +113,7 @@ And, finally, a list of possible questions to ask them at the end of the intervi
 	- Is there a mentorship program? If so, what is it like?
 	- How could I improve?
 	
+# further reading
+- https://evykassirer.github.io/playing-the-internship-game/resources/
+
+	
